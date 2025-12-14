@@ -1,0 +1,29 @@
+/* --- INICIO: Importación de fuente para Net Art (Bitcount Prop Single) --- */
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&display=swap');
+
+/* --- ESTILOS GLOBALES CONSOLIDADO --- */
+body {
+  /* Aplicamos la fuente importada */
+  font-family: 'Bitcount Prop Single', monospace; 
+  
+  /* Estética Net.Art/Terminal */
+  background-color: #000000;
+  color: #cccccc; /* Base color gris, para que el verde/magenta de los componentes destaque */
+  
+  /* Estilos de maquetación */
+  font-weight: normal; 
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  overflow-x: hidden; 
+}
+/* --- FIN: Importación y Estilos Globales --- */
+
+
+/* --- ESTILOS DEL COMPONENTE GLITCHTEXT --- */
+.glitch-effect {
+    /* Aseguramos que Bitcount se use en los títulos */
+    font-family: 'Bitcount Prop Single', monospace;
+    
+    font-weight: normal; 
+}
