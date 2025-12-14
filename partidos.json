@@ -1,0 +1,132 @@
+{
+  "titulo": "Resultados Mundiales 2010: Data Inestable",
+  "isCorrupt": true,
+  "grupos": [
+    {
+      "nombre": "Group A",
+      "partidos": [
+        { "id": "GA1", "equipoA": "South Africa", "golesA": 1, "equipoB": "Mexico", "golesB": 1, "isCorrupt": false },
+        { "id": "GA2", "equipoA": "Uruguay", "golesA": 0, "equipoB": "France", "golesB": 0, "isCorrupt": false },
+        { "id": "GA3", "equipoA": "South Africa", "golesA": 0, "equipoB": "Uruguay", "golesB": 3, "isCorrupt": false },
+        { "id": "GA4", "equipoA": "France", "golesA": 0, "equipoB": "Mexico", "golesB": 2, "isCorrupt": false },
+        { "id": "GA5", "equipoA": "Mexico", "golesA": 0, "equipoB": "Uruguay", "golesB": 1, "isCorrupt": false },
+        { "id": "GA6", "equipoA": "France", "golesA": 1, "equipoB": "South Africa", "golesB": 2, "isCorrupt": true }
+      ]
+    },
+    {
+      "nombre": "Group B",
+      "partidos": [
+        { "id": "GB1", "equipoA": "South Korea", "golesA": 2, "equipoB": "Greece", "golesB": 0, "isCorrupt": false },
+        { "id": "GB2", "equipoA": "Argentina", "golesA": 1, "equipoB": "Nigeria", "golesB": 0, "isCorrupt": false },
+        { "id": "GB3", "equipoA": "Argentina", "golesA": 4, "equipoB": "South Korea", "golesB": 1, "isCorrupt": true },
+        { "id": "GB4", "equipoA": "Greece", "golesA": 2, "equipoB": "Nigeria", "golesB": 1, "isCorrupt": false },
+        { "id": "GB5", "equipoA": "Nigeria", "golesA": 2, "equipoB": "South Korea", "golesB": 2, "isCorrupt": false },
+        { "id": "GB6", "equipoA": "Greece", "golesA": 0, "equipoB": "Argentina", "golesB": 2, "isCorrupt": false }
+      ]
+    },
+    {
+      "nombre": "Group C",
+      "partidos": [
+        { "id": "GC1", "equipoA": "England", "golesA": 1, "equipoB": "United States", "golesB": 1, "isCorrupt": false },
+        { "id": "GC2", "equipoA": "Algeria", "golesA": 0, "equipoB": "Slovenia", "golesB": 1, "isCorrupt": false },
+        { "id": "GC3", "equipoA": "Slovenia", "golesA": 2, "equipoB": "United States", "golesB": 2, "isCorrupt": true },
+        { "id": "GC4", "equipoA": "England", "golesA": 0, "equipoB": "Algeria", "golesB": 0, "isCorrupt": false },
+        { "id": "GC5", "equipoA": "Slovenia", "golesA": 0, "equipoB": "England", "golesB": 1, "isCorrupt": false },
+        { "id": "GC6", "equipoA": "United States", "golesA": 1, "equipoB": "Algeria", "golesB": 0, "isCorrupt": false }
+      ]
+    },
+    {
+      "nombre": "Group D",
+      "partidos": [
+        { "id": "GD1", "equipoA": "Germany", "golesA": 4, "equipoB": "Australia", "golesB": 0, "isCorrupt": false },
+        { "id": "GD2", "equipoA": "Serbia", "golesA": 0, "equipoB": "Ghana", "golesB": 1, "isCorrupt": false },
+        { "id": "GD3", "equipoA": "Germany", "golesA": 0, "equipoB": "Serbia", "golesB": 1, "isCorrupt": true },
+        { "id": "GD4", "equipoA": "Ghana", "golesA": 1, "equipoB": "Australia", "golesB": 1, "isCorrupt": false },
+        { "id": "GD5", "equipoA": "Ghana", "golesA": 0, "equipoB": "Germany", "golesB": 1, "isCorrupt": false },
+        { "id": "GD6", "equipoA": "Australia", "golesA": 2, "equipoB": "Serbia", "golesB": 1, "isCorrupt": false }
+      ]
+    },
+    {
+      "nombre": "Group E",
+      "partidos": [
+        { "id": "GE1", "equipoA": "Netherlands", "golesA": 2, "equipoB": "Denmark", "golesB": 0, "isCorrupt": false },
+        { "id": "GE2", "equipoA": "Japan", "golesA": 1, "equipoB": "Cameroon", "golesB": 0, "isCorrupt": false },
+        { "id": "GE3", "equipoA": "Netherlands", "golesA": 1, "equipoB": "Japan", "golesB": 0, "isCorrupt": false },
+        { "id": "GE4", "equipoA": "Cameroon", "golesA": 1, "equipoB": "Denmark", "golesB": 2, "isCorrupt": true },
+        { "id": "GE5", "equipoA": "Denmark", "golesA": 1, "equipoB": "Japan", "golesB": 3, "isCorrupt": false },
+        { "id": "GE6", "equipoA": "Cameroon", "golesA": 1, "equipoB": "Netherlands", "golesB": 2, "isCorrupt": false }
+      ]
+    },
+    {
+      "nombre": "Group F",
+      "partidos": [
+        { "id": "GF1", "equipoA": "Italy", "golesA": 1, "equipoB": "Paraguay", "golesB": 1, "isCorrupt": false },
+        { "id": "GF2", "equipoA": "New Zealand", "golesA": 1, "equipoB": "Slovakia", "golesB": 1, "isCorrupt": false },
+        { "id": "GF3", "equipoA": "Slovakia", "golesA": 0, "equipoB": "Paraguay", "golesB": 2, "isCorrupt": false },
+        { "id": "GF4", "equipoA": "Italy", "golesA": 1, "equipoB": "New Zealand", "golesB": 1, "isCorrupt": false },
+        { "id": "GF5", "equipoA": "Slovakia", "golesA": 3, "equipoB": "Italy", "golesB": 2, "isCorrupt": true },
+        { "id": "GF6", "equipoA": "Paraguay", "golesA": 0, "equipoB": "New Zealand", "golesB": 0, "isCorrupt": false }
+      ]
+    },
+    {
+      "nombre": "Group G",
+      "partidos": [
+        { "id": "GG1", "equipoA": "Ivory Coast", "golesA": 0, "equipoB": "Portugal", "golesB": 0, "isCorrupt": false },
+        { "id": "GG2", "equipoA": "Brazil", "golesA": 2, "equipoB": "North Korea", "golesB": 1, "isCorrupt": false },
+        { "id": "GG3", "equipoA": "Brazil", "golesA": 3, "equipoB": "Ivory Coast", "golesB": 1, "isCorrupt": false },
+        { "id": "GG4", "equipoA": "Portugal", "golesA": 7, "equipoB": "North Korea", "golesB": 0, "isCorrupt": true },
+        { "id": "GG5", "equipoA": "Portugal", "golesA": 0, "equipoB": "Brazil", "golesB": 0, "isCorrupt": false },
+        { "id": "GG6", "equipoA": "North Korea", "golesA": 0, "equipoB": "Ivory Coast", "golesB": 3, "isCorrupt": false }
+      ]
+    },
+    {
+      "nombre": "Group H",
+      "partidos": [
+        { "id": "GH1", "equipoA": "Honduras", "golesA": 0, "equipoB": "Chile", "golesB": 1, "isCorrupt": false },
+        { "id": "GH2", "equipoA": "Spain", "golesA": 0, "equipoB": "Switzerland", "golesB": 1, "isCorrupt": true },
+        { "id": "GH3", "equipoA": "Spain", "golesA": 2, "equipoB": "Honduras", "golesB": 0, "isCorrupt": false },
+        { "id": "GH4", "equipoA": "Chile", "golesA": 1, "equipoB": "Switzerland", "golesB": 0, "isCorrupt": false },
+        { "id": "GH5", "equipoA": "Chile", "golesA": 1, "equipoB": "Spain", "golesB": 2, "isCorrupt": false },
+        { "id": "GH6", "equipoA": "Switzerland", "golesA": 0, "equipoB": "Honduras", "golesB": 0, "isCorrupt": false }
+      ]
+    }
+  ],
+  "eliminatorias": [
+    {
+      "ronda": "Round of 16",
+      "partidos": [
+        { "id": "R16-1", "equipoA": "Uruguay", "golesA": 2, "equipoB": "South Korea", "golesB": 1, "isCorrupt": false },
+        { "id": "R16-2", "equipoA": "United States", "golesA": 1, "equipoB": "Ghana", "golesB": 2, "tiempoExtra": true, "isCorrupt": true },
+        { "id": "R16-3", "equipoA": "Germany", "golesA": 4, "equipoB": "England", "golesB": 1, "isCorrupt": false },
+        { "id": "R16-4", "equipoA": "Argentina", "golesA": 3, "equipoB": "Mexico", "golesB": 1, "isCorrupt": false },
+        { "id": "R16-5", "equipoA": "Netherlands", "golesA": 2, "equipoB": "Slovakia", "golesB": 1, "isCorrupt": false },
+        { "id": "R16-6", "equipoA": "Brazil", "golesA": 3, "equipoB": "Chile", "golesB": 0, "isCorrupt": false },
+        { "id": "R16-7", "equipoA": "Paraguay", "golesA": 0, "golesPenaltisA": 5, "equipoB": "Japan", "golesB": 0, "golesPenaltisB": 3, "isPenaltis": true, "isCorrupt": true },
+        { "id": "R16-8", "equipoA": "Spain", "golesA": 1, "equipoB": "Portugal", "golesB": 0, "isCorrupt": false }
+      ]
+    },
+    {
+      "ronda": "Quarter-finals",
+      "partidos": [
+        { "id": "QF-1", "equipoA": "Netherlands", "golesA": 2, "equipoB": "Brazil", "golesB": 1, "isCorrupt": false },
+        { "id": "QF-2", "equipoA": "Uruguay", "golesA": 1, "golesPenaltisA": 4, "equipoB": "Ghana", "golesB": 1, "golesPenaltisB": 2, "isPenaltis": true, "isCorrupt": true },
+        { "id": "QF-3", "equipoA": "Argentina", "golesA": 0, "equipoB": "Germany", "golesB": 4, "isCorrupt": false },
+        { "id": "QF-4", "equipoA": "Paraguay", "golesA": 0, "equipoB": "Spain", "golesB": 1, "isCorrupt": false }
+      ]
+    },
+    {
+      "ronda": "Semi-finals",
+      "partidos": [
+        { "id": "SF-1", "equipoA": "Uruguay", "golesA": 2, "equipoB": "Netherlands", "golesB": 3, "isCorrupt": false },
+        { "id": "SF-2", "equipoA": "Germany", "golesA": 0, "equipoB": "Spain", "golesB": 1, "isCorrupt": true }
+      ]
+    },
+    {
+      "ronda": "Finals",
+      "partidos": [
+        { "id": "TP", "equipoA": "Uruguay", "golesA": 2, "equipoB": "Germany", "golesB": 3, "isCorrupt": false, "tipoPartido": "Tercer Lugar" },
+        { "id": "FIN", "equipoA": "Netherlands", "golesA": 0, "equipoB": "Spain", "golesB": 1, "tiempoExtra": true, "isCorrupt": true, "tipoPartido": "Final" }
+      ]
+    }
+  ]
+}

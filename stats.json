@@ -1,0 +1,72 @@
+{
+  "titulo": "ESTADÍSTICAS INDIVIDUALES DETALLADAS",
+  "isCorrupt": false,
+  "categorias": [
+    {
+      "nombre": "GOALS",
+      "id": "goals",
+      "datos": [
+        { "jugador": "Thomas Muller", "pais": "Germany", "flag": "de", "valor": 5 },
+        { "jugador": "David Villa", "pais": "Spain", "flag": "es", "valor": 5 },
+        { "jugador": "Wesley Sneijder", "pais": "Netherlands", "flag": "nl", "valor": 5 },
+        { "jugador": "Diego Forlan", "pais": "Uruguay", "flag": "uy", "valor": 5 },
+        { "jugador": "Gonzalo Higuain", "pais": "Argentina", "flag": "ar", "valor": 4 }
+      ]
+    },
+    {
+      "nombre": "ASSISTS",
+      "id": "assists",
+      "datos": [
+        { "jugador": "KAKA", "pais": "Brazil", "flag": "br", "valor": 3 },
+        { "jugador": "Thomas Muller", "pais": "Germany", "flag": "de", "valor": 3 },
+        { "jugador": "Mesut Ozil", "pais": "Germany", "flag": "de", "valor": 3 },
+        { "jugador": "Dirk Kuyt", "pais": "Netherlands", "flag": "nl", "valor": 3 },
+        { "jugador": "Bastian Schweinsteiger", "pais": "Germany", "flag": "de", "valor": 3 }
+      ]
+    },
+    {
+      "nombre": "CLEAN SHEETS",
+      "id": "clean-sheets",
+      "datos": [
+        { "jugador": "Iker Casillas", "pais": "Spain", "flag": "es", "valor": 5 },
+        { "jugador": "Eduardo", "pais": "Portugal", "flag": "pt", "valor": 3 },
+        { "jugador": "Justo Villar", "pais": "Paraguay", "flag": "py", "valor": 3 },
+        { "jugador": "Manuel Neuer", "pais": "Germany", "flag": "de", "valor": 3 },
+        { "jugador": "Fernando Muslera", "pais": "Uruguay", "flag": "uy", "valor": 3 }
+      ]
+    },
+    {
+      "nombre": "COMPLETED PASSES",
+      "id": "completed-passes",
+      "datos": [
+        { "jugador": "Xavi", "pais": "Spain", "flag": "es", "valor": 669 },
+        { "jugador": "Bastian Schweinsteiger", "pais": "Germany", "flag": "de", "valor": 510 },
+        { "jugador": "Sergio Busquets", "pais": "Spain", "flag": "es", "valor": 501 },
+        { "jugador": "Xabi Alonso", "pais": "Spain", "flag": "es", "valor": 480 },
+        { "jugador": "Philipp Lahm", "pais": "Germany", "flag": "de", "valor": 471 }
+      ]
+    },
+    {
+      "nombre": "G+A",
+      "id": "g-a",
+      "datos": [
+        { "jugador": "Thomas Muller", "pais": "Germany", "flag": "de", "valor": 8 },
+        { "jugador": "David Villa", "pais": "Spain", "flag": "es", "valor": 6 },
+        { "jugador": "Wesley Sneijder", "pais": "Netherlands", "flag": "nl", "valor": 6 },
+        { "jugador": "Diego Forlan", "pais": "Uruguay", "flag": "uy", "valor": 6 },
+        { "jugador": "Luis Suarez", "pais": "Uruguay", "flag": "uy", "valor": 5 }
+      ]
+    },
+    {
+      "nombre": "AWARDS",
+      "id": "awards",
+      "datos": [
+        { "jugador": "Diego Forlan", "premio": "Golden ball", "flag": "uy", "valor": null },
+        { "jugador": "Iker Casillas", "premio": "Golden glove", "flag": "es", "valor": null },
+        { "jugador": "Thomas Muller", "premio": "Golden boot", "flag": "de", "valor": null },
+        { "jugador": "Thomas Muller", "premio": "Young player", "flag": "de", "valor": null },
+        { "jugador": "Andres Iniesta", "premio": "Final MVP", "flag": "es", "valor": null }
+      ]
+    }
+  ]
+}

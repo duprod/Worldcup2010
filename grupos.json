@@ -1,0 +1,142 @@
+{
+  "titulo": "Resultados Fase de Grupos Mundial 2010",
+  "isCorrupt": false,
+  "grupos": [
+    {
+      "nombre": "Group A",
+      "partidos": [
+        { "id": "GA1", "fecha": "2010-06-11", "equipoA": "South Africa", "golesA": 1, "equipoB": "Mexico", "golesB": 1, "isCorrupt": false },
+        { "id": "GA2", "fecha": "2010-06-11", "equipoA": "Uruguay", "golesA": 0, "equipoB": "France", "golesB": 0, "isCorrupt": false },
+        { "id": "GA3", "fecha": "2010-06-16", "equipoA": "South Africa", "golesA": 0, "equipoB": "Uruguay", "golesB": 3, "isCorrupt": false },
+        { "id": "GA4", "fecha": "2010-06-17", "equipoA": "France", "golesA": 0, "equipoB": "Mexico", "golesB": 2, "isCorrupt": false },
+        { "id": "GA5", "fecha": "2010-06-22", "equipoA": "Mexico", "golesA": 0, "equipoB": "Uruguay", "golesB": 1, "isCorrupt": false },
+        { "id": "GA6", "fecha": "2010-06-22", "equipoA": "France", "golesA": 1, "equipoB": "South Africa", "golesB": 2, "isCorrupt": false }
+      ],
+      "clasificacion": [
+        { "equipo": "Uruguay", "pj": 3, "pg": 2, "pe": 1, "pp": 0, "gf": 4, "gc": 0, "pts": 7 },
+        { "equipo": "Mexico", "pj": 3, "pg": 1, "pe": 1, "pp": 1, "gf": 3, "gc": 2, "pts": 4 },
+        { "equipo": "South Africa", "pj": 3, "pg": 1, "pe": 1, "pp": 1, "gf": 2, "gc": 5, "pts": 4 },
+        { "equipo": "France", "pj": 3, "pg": 0, "pe": 1, "pp": 2, "gf": 1, "gc": 4, "pts": 1 }
+      ]
+    },
+    {
+      "nombre": "Group B",
+      "partidos": [
+        { "id": "GB1", "fecha": "2010-06-12", "equipoA": "South Korea", "golesA": 2, "equipoB": "Greece", "golesB": 0, "isCorrupt": false },
+        { "id": "GB2", "fecha": "2010-06-12", "equipoA": "Argentina", "golesA": 1, "equipoB": "Nigeria", "golesB": 0, "isCorrupt": false },
+        { "id": "GB3", "fecha": "2010-06-17", "equipoA": "Argentina", "golesA": 4, "equipoB": "South Korea", "golesB": 1, "isCorrupt": false },
+        { "id": "GB4", "fecha": "2010-06-17", "equipoA": "Greece", "golesA": 2, "equipoB": "Nigeria", "golesB": 1, "isCorrupt": false },
+        { "id": "GB5", "fecha": "2010-06-22", "equipoA": "Nigeria", "golesA": 2, "equipoB": "South Korea", "golesB": 2, "isCorrupt": false },
+        { "id": "GB6", "fecha": "2010-06-22", "equipoA": "Greece", "golesA": 0, "equipoB": "Argentina", "golesB": 2, "isCorrupt": false }
+      ],
+      "clasificacion": [
+        { "equipo": "Argentina", "pj": 3, "pg": 3, "pe": 0, "pp": 0, "gf": 7, "gc": 1, "pts": 9 },
+        { "equipo": "South Korea", "pj": 3, "pg": 1, "pe": 1, "pp": 1, "gf": 5, "gc": 6, "pts": 4 },
+        { "equipo": "Greece", "pj": 3, "pg": 1, "pe": 0, "pp": 2, "gf": 2, "gc": 5, "pts": 3 },
+        { "equipo": "Nigeria", "pj": 3, "pg": 0, "pe": 1, "pp": 2, "gf": 3, "gc": 5, "pts": 1 }
+      ]
+    },
+    {
+      "nombre": "Group C",
+      "partidos": [
+        { "id": "GC1", "fecha": "2010-06-12", "equipoA": "England", "golesA": 1, "equipoB": "United States", "golesB": 1, "isCorrupt": false },
+        { "id": "GC2", "fecha": "2010-06-13", "equipoA": "Algeria", "golesA": 0, "equipoB": "Slovenia", "golesB": 1, "isCorrupt": false },
+        { "id": "GC3", "fecha": "2010-06-18", "equipoA": "Slovenia", "golesA": 2, "equipoB": "United States", "golesB": 2, "isCorrupt": false },
+        { "id": "GC4", "fecha": "2010-06-18", "equipoA": "England", "golesA": 0, "equipoB": "Algeria", "golesB": 0, "isCorrupt": false },
+        { "id": "GC5", "fecha": "2010-06-23", "equipoA": "Slovenia", "golesA": 0, "equipoB": "England", "golesB": 1, "isCorrupt": false },
+        { "id": "GC6", "fecha": "2010-06-23", "equipoA": "United States", "golesA": 1, "equipoB": "Algeria", "golesB": 0, "isCorrupt": false }
+      ],
+      "clasificacion": [
+        { "equipo": "United States", "pj": 3, "pg": 1, "pe": 2, "pp": 0, "gf": 5, "gc": 3, "pts": 5 },
+        { "equipo": "England", "pj": 3, "pg": 1, "pe": 2, "pp": 0, "gf": 2, "gc": 1, "pts": 5 },
+        { "equipo": "Slovenia", "pj": 3, "pg": 1, "pe": 1, "pp": 1, "gf": 3, "gc": 3, "pts": 4 },
+        { "equipo": "Algeria", "pj": 3, "pg": 0, "pe": 1, "pp": 2, "gf": 0, "gc": 2, "pts": 1 }
+      ]
+    },
+    {
+      "nombre": "Group D",
+      "partidos": [
+        { "id": "GD1", "fecha": "2010-06-13", "equipoA": "Germany", "golesA": 4, "equipoB": "Australia", "golesB": 0, "isCorrupt": false },
+        { "id": "GD2", "fecha": "2010-06-13", "equipoA": "Serbia", "golesA": 0, "equipoB": "Ghana", "golesB": 1, "isCorrupt": false },
+        { "id": "GD3", "fecha": "2010-06-18", "equipoA": "Germany", "golesA": 0, "equipoB": "Serbia", "golesB": 1, "isCorrupt": false },
+        { "id": "GD4", "fecha": "2010-06-19", "equipoA": "Ghana", "golesA": 1, "equipoB": "Australia", "golesB": 1, "isCorrupt": false },
+        { "id": "GD5", "fecha": "2010-06-23", "equipoA": "Ghana", "golesA": 0, "equipoB": "Germany", "golesB": 1, "isCorrupt": false },
+        { "id": "GD6", "fecha": "2010-06-23", "equipoA": "Australia", "golesA": 2, "equipoB": "Serbia", "golesB": 1, "isCorrupt": false }
+      ],
+      "clasificacion": [
+        { "equipo": "Germany", "pj": 3, "pg": 2, "pe": 0, "pp": 1, "gf": 5, "gc": 1, "pts": 6 },
+        { "equipo": "Ghana", "pj": 3, "pg": 1, "pe": 1, "pp": 1, "gf": 2, "gc": 2, "pts": 4 },
+        { "equipo": "Australia", "pj": 3, "pg": 1, "pe": 1, "pp": 1, "gf": 3, "gc": 6, "pts": 4 },
+        { "equipo": "Serbia", "pj": 3, "pg": 1, "pe": 0, "pp": 2, "gf": 2, "gc": 3, "pts": 3 }
+      ]
+    },
+    {
+      "nombre": "Group E",
+      "partidos": [
+        { "id": "GE1", "fecha": "2010-06-14", "equipoA": "Netherlands", "golesA": 2, "equipoB": "Denmark", "golesB": 0, "isCorrupt": false },
+        { "id": "GE2", "fecha": "2010-06-14", "equipoA": "Japan", "golesA": 1, "equipoB": "Cameroon", "golesB": 0, "isCorrupt": false },
+        { "id": "GE3", "fecha": "2010-06-19", "equipoA": "Netherlands", "golesA": 1, "equipoB": "Japan", "golesB": 0, "isCorrupt": false },
+        { "id": "GE4", "fecha": "2010-06-19", "equipoA": "Cameroon", "golesA": 1, "equipoB": "Denmark", "golesB": 2, "isCorrupt": false },
+        { "id": "GE5", "fecha": "2010-06-24", "equipoA": "Denmark", "golesA": 1, "equipoB": "Japan", "golesB": 3, "isCorrupt": false },
+        { "id": "GE6", "fecha": "2010-06-24", "equipoA": "Cameroon", "golesA": 1, "equipoB": "Netherlands", "golesB": 2, "isCorrupt": false }
+      ],
+      "clasificacion": [
+        { "equipo": "Netherlands", "pj": 3, "pg": 3, "pe": 0, "pp": 0, "gf": 5, "gc": 1, "pts": 9 },
+        { "equipo": "Japan", "pj": 3, "pg": 2, "pe": 0, "pp": 1, "gf": 4, "gc": 2, "pts": 6 },
+        { "equipo": "Denmark", "pj": 3, "pg": 1, "pe": 0, "pp": 2, "gf": 3, "gc": 6, "pts": 3 },
+        { "equipo": "Cameroon", "pj": 3, "pg": 0, "pe": 0, "pp": 3, "gf": 2, "gc": 5, "pts": 0 }
+      ]
+    },
+    {
+      "nombre": "Group F",
+      "partidos": [
+        { "id": "GF1", "fecha": "2010-06-14", "equipoA": "Italy", "golesA": 1, "equipoB": "Paraguay", "golesB": 1, "isCorrupt": false },
+        { "id": "GF2", "fecha": "2010-06-15", "equipoA": "New Zealand", "golesA": 1, "equipoB": "Slovakia", "golesB": 1, "isCorrupt": false },
+        { "id": "GF3", "fecha": "2010-06-20", "equipoA": "Slovakia", "golesA": 0, "equipoB": "Paraguay", "golesB": 2, "isCorrupt": false },
+        { "id": "GF4", "fecha": "2010-06-20", "equipoA": "Italy", "golesA": 1, "equipoB": "New Zealand", "golesB": 1, "isCorrupt": false },
+        { "id": "GF5", "fecha": "2010-06-24", "equipoA": "Slovakia", "golesA": 3, "equipoB": "Italy", "golesB": 2, "isCorrupt": false },
+        { "id": "GF6", "fecha": "2010-06-24", "equipoA": "Paraguay", "golesA": 0, "equipoB": "New Zealand", "golesB": 0, "isCorrupt": false }
+      ],
+      "clasificacion": [
+        { "equipo": "Paraguay", "pj": 3, "pg": 1, "pe": 2, "pp": 0, "gf": 3, "gc": 1, "pts": 5 },
+        { "equipo": "Slovakia", "pj": 3, "pg": 1, "pe": 1, "pp": 1, "gf": 4, "gc": 5, "pts": 4 },
+        { "equipo": "New Zealand", "pj": 3, "pg": 0, "pe": 3, "pp": 0, "gf": 2, "gc": 2, "pts": 3 },
+        { "equipo": "Italy", "pj": 3, "pg": 0, "pe": 2, "pp": 1, "gf": 4, "gc": 5, "pts": 2 }
+      ]
+    },
+    {
+      "nombre": "Group G",
+      "partidos": [
+        { "id": "GG1", "fecha": "2010-06-15", "equipoA": "Ivory Coast", "golesA": 0, "equipoB": "Portugal", "golesB": 0, "isCorrupt": false },
+        { "id": "GG2", "fecha": "2010-06-15", "equipoA": "Brazil", "golesA": 2, "equipoB": "North Korea", "golesB": 1, "isCorrupt": false },
+        { "id": "GG3", "fecha": "2010-06-20", "equipoA": "Brazil", "golesA": 3, "equipoB": "Ivory Coast", "golesB": 1, "isCorrupt": false },
+        { "id": "GG4", "fecha": "2010-06-21", "equipoA": "Portugal", "golesA": 7, "equipoB": "North Korea", "golesB": 0, "isCorrupt": false },
+        { "id": "GG5", "fecha": "2010-06-25", "equipoA": "Portugal", "golesA": 0, "equipoB": "Brazil", "golesB": 0, "isCorrupt": false },
+        { "id": "GG6", "fecha": "2010-06-25", "equipoA": "North Korea", "golesA": 0, "equipoB": "Ivory Coast", "golesB": 3, "isCorrupt": false }
+      ],
+      "clasificacion": [
+        { "equipo": "Brazil", "pj": 3, "pg": 2, "pe": 1, "pp": 0, "gf": 5, "gc": 2, "pts": 7 },
+        { "equipo": "Portugal", "pj": 3, "pg": 1, "pe": 2, "pp": 0, "gf": 7, "gc": 0, "pts": 5 },
+        { "equipo": "Ivory Coast", "pj": 3, "pg": 1, "pe": 1, "pp": 1, "gf": 4, "gc": 3, "pts": 4 },
+        { "equipo": "North Korea", "pj": 3, "pg": 0, "pe": 0, "pp": 3, "gf": 1, "gc": 12, "pts": 0 }
+      ]
+    },
+    {
+      "nombre": "Group H",
+      "partidos": [
+        { "id": "GH1", "fecha": "2010-06-16", "equipoA": "Honduras", "golesA": 0, "equipoB": "Chile", "golesB": 1, "isCorrupt": false },
+        { "id": "GH2", "fecha": "2010-06-16", "equipoA": "Spain", "golesA": 0, "equipoB": "Switzerland", "golesB": 1, "isCorrupt": false },
+        { "id": "GH3", "fecha": "2010-06-21", "equipoA": "Spain", "golesA": 2, "equipoB": "Honduras", "golesB": 0, "isCorrupt": false },
+        { "id": "GH4", "fecha": "2010-06-21", "equipoA": "Chile", "golesA": 1, "equipoB": "Switzerland", "golesB": 0, "isCorrupt": false },
+        { "id": "GH5", "fecha": "2010-06-25", "equipoA": "Chile", "golesA": 1, "equipoB": "Spain", "golesB": 2, "isCorrupt": false },
+        { "id": "GH6", "fecha": "2010-06-25", "equipoA": "Switzerland", "golesA": 0, "equipoB": "Honduras", "golesB": 0, "isCorrupt": false }
+      ],
+      "clasificacion": [
+        { "equipo": "Spain", "pj": 3, "pg": 2, "pe": 0, "pp": 1, "gf": 4, "gc": 2, "pts": 6 },
+        { "equipo": "Chile", "pj": 3, "pg": 2, "pe": 0, "pp": 1, "gf": 3, "gc": 2, "pts": 6 },
+        { "equipo": "Switzerland", "pj": 3, "pg": 1, "pe": 1, "pp": 1, "gf": 1, "gc": 1, "pts": 4 },
+        { "equipo": "Honduras", "pj": 3, "pg": 0, "pe": 1, "pp": 2, "gf": 0, "gc": 3, "pts": 1 }
+      ]
+    }
+  ]
+}
